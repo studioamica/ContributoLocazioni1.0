@@ -1,0 +1,70 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+categories:
+  - business-process-management
+description:
+  it:
+    features:
+      - Graduatoria automatica
+      - Generazione tracciati
+    genericName: Contributo Locazioni 1.0
+    longDescription: |
+      Il software per il calcolo dei contributi di locazione nella regione
+      Puglia è uno strumento avanzato progettato per semplificare e
+      automatizzare il processo di determinazione dei contributi di locazione in
+      conformità con le leggi e le regolamentazioni vigenti nella regione
+      Puglia, in Italia.
+
+
+      Questo software intuitivo e user-friendly offre una soluzione efficiente
+      per comuni che devono calcolare i contributi di locazione in base ai
+      parametri stabiliti dalla normativa regionale pugliese.
+
+
+      Con il software, gli utenti possono inserire i dati pertinenti, come la
+      superficie dell'immobile, la zona geografica, il tipo di contratto di
+      locazione e le informazioni sulle agevolazioni o sgravi fiscali
+      disponibili. Il software elaborerà automaticamente queste informazioni e
+      fornirà una stima accurata dei contributi di locazione da pagare o da
+      percepire, basandosi sulle tariffe e i criteri stabiliti dalla normativa
+      pugliese.
+
+
+      Oltre al calcolo dei contributi di locazione, il software può anche
+      generare report dettagliati e documenti necessari per le pratiche
+      amministrative, semplificando ulteriormente il processo di registrazione e
+      dichiarazione dei contributi.
+
+
+      ​
+    shortDescription: Calcolo Contributo Locazioni - Regione puglia
+developmentStatus: obsolete
+it:
+  conforme:
+    gdpr: false
+    lineeGuidaDesign: false
+    misureMinimeSicurezza: false
+    modelloInteroperabilita: false
+  countryExtensionVersion: '0.2'
+  piattaforme:
+    anpr: false
+    cie: false
+    pagopa: false
+    spid: false
+legal:
+  license: EUPL-1.1
+localisation:
+  availableLanguages:
+    - it
+  localisationReady: false
+maintenance:
+  type: none
+name: Contributo Locazioni 1.0
+platforms:
+  - web
+releaseDate: '2012-01-02'
+softwareType: standalone/web
+url: 'https://github.com/studioamica/ContributoLocazioni1.0'
