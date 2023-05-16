@@ -1,0 +1,233 @@
+body{
+	font-family: Arial;
+	font-size: medium;
+	color: #000066;
+	line-height: normal;	
+	margin: 0px;
+	padding: 0px;
+}
+form{
+padding:0px;
+margin:0px;
+}
+a{
+	color: #666666;
+	text-decoration: none;
+}
+
+a:link{
+	color: #666666;
+	text-decoration: none;
+}
+
+a:visited{
+	color: #666666;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #006699;
+	text-decoration: underline;
+}
+
+
+ul{
+ list-style-type: square;
+}
+
+ul ul{
+ list-style-type: disc;
+}
+
+ul ul ul{
+ list-style-type: none;
+}
+
+label{
+ font-family: Arial,sans-serif;
+ font-weight: bold;
+ color: #334d55;
+}
+
+.hide{display:none;}
+
+
+
+#navigazione {
+	background-color:#f0eeee;
+	color:9d9d9d;
+	font-family:Arial;
+	font-size:13px;
+	text-decoration:none;
+	margin-top:0px;
+	padding-top:0px;
+	border-bottom: solid 3px #CCCCCC;
+	font-weight:bold;
+	width:100%;
+	padding-top:2px;
+		}
+#navvoci {
+float:left;
+}
+#logout{
+float:right;
+color:5ca2e0;
+font-size:16px;
+font-weight:bold;
+}
+
+#categoria {
+font-family:Arial;
+font-size:18px;
+font-weight:bold;
+color:#999999;
+width:465px;
+margin:5px;
+padding:1%;
+float:left;
+text-align:left;
+padding:7px;
+border:solid 2px #cccccc;
+line-height: 35px;
+}
+
+#categoria hr{
+margin-top:5px;
+padding:0px;
+}
+#bottom {
+border-top: solid 3px #cccccc;
+text-align:center;
+color: #4198e2;
+padding:5px;
+margin-top:20px;
+font-size:x-small;
+}
+
+table {
+border:0px;
+background-color:#cee8ff;
+}
+
+#moduli {
+background-color:#cee8ff;
+float:left;
+margin:10px;
+padding:5px;
+border:solid 1px #9D9D9D;
+}
+
+#modulip {
+background-color:#cee8ff;
+margin:2px;
+padding:5px;
+border:solid 1px #9D9D9D;
+
+}
+
+#contributo {
+background-color:#cee8ff;
+margin:15px;
+padding:5px;
+border:solid 2px c90000;
+
+}
+
+#contributo table {
+border:0px;
+background-color:#cee8ff;
+font-size:18px;
+font-weight:bold;
+color: #820003;
+}
+#contributo h2 {
+color: #820003;
+font-size:20px;
+}
+#moduli h2 {
+color:c90000;
+font-size:14px;
+}
+
+#modulip h2 {
+color:c90000;
+font-size:14px;
+}
+
+#moduli table {
+padding:0px;
+margin:0px;
+color:#757575;
+font-weight:bold;
+font-size:12px;
+}
+#modulip table {
+padding:0px;
+margin:0px;
+color:#757575;
+font-weight:bold;
+font-size:12px;
+}
+#selez p {
+padding:0px;
+margin:0px;
+}
+
+#clear {
+clear:both; 
+margin:0px; 
+padding:0px; 
+font-size:1px;
+}
+
+#clear10 {
+clear:both; 
+margin:0px; 
+padding:0px; 
+font-size:10px;
+}
+
+hr {
+margin:0px;
+padding:0px;
+}
+
+#testocalcolo {
+padding:25px; 
+line-height:30px;
+}
+
+#testonorm {
+padding:25px; 
+line-height:20px;
+}
+
+#lbl {
+color:c90000; 
+font-size:12px;
+}
+
+#contenitore {
+float:left; width:22%;
+}
+
+#benvenuto {
+color:#B1B1B1;
+font-size:10px;
+font-weight:bold;
+}
+
+#user{
+color:#C90000; 
+font-size:16px;
+font-weight:bold;
+}
+
+#anno {
+color:c90000;
+}
+
+#parametri {
+width: 77%;
+margin-left:23%;
+}
