@@ -12,7 +12,7 @@ description:
       - Generazione tracciati
     genericName: Contributo Locazioni 1.0
     longDescription: |
-      Il software per il calcolo dei contributi di locazione nella regione
+      VERSIONE LEGACY - Il software per il calcolo dei contributi di locazione nella regione
       Puglia è uno strumento avanzato progettato per semplificare e
       automatizzare il processo di determinazione dei contributi di locazione in
       conformità con le leggi e le regolamentazioni vigenti nella regione
@@ -40,7 +40,7 @@ description:
 
 
       ​
-    shortDescription: Calcolo Contributo Locazioni - Regione puglia
+    shortDescription: Calcolo Contributo Locazioni per i fondi erogati nella Regione puglia - L.431/98 - VERSIONE LEGACY
 developmentStatus: obsolete
 it:
   conforme:
